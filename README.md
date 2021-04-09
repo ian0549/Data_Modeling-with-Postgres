@@ -60,9 +60,10 @@ Using the song and log datasets, you'll need to create a star schema optimized f
 ## Description of Files
 
 - data
-    -log_data   This directory contains a collection of JSON log files. 
     
-    -song_data  This directory contains a collection of Song JSON files.
+    --log_data   This directory contains a collection of JSON log files. 
+    
+    --song_data  This directory contains a collection of Song JSON files.
     
 - create_tables.py This Python script recreates the database and tables used to storethe data.
 
