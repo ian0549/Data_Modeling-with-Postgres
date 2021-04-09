@@ -59,7 +59,7 @@ Using the song and log datasets, you'll need to create a star schema optimized f
 
 ## Description of Files
 
-- data
+- data.zip
     
     --log_data   This directory contains a collection of JSON log files. 
     
